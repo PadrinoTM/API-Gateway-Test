@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "90618d0f-ef09-4566-ae7b-93b4bbfa952c": {
+      "ProjectGuid": "90618d0f-ef09-4566-ae7b-93b4bbfa952c",
+      "DisplayName": "TestOcelot",
+      "ColorIndex": 0
+    },
+    "c288d34d-55d4-4b6d-bb10-5c92e56237f5": {
+      "ProjectGuid": "c288d34d-55d4-4b6d-bb10-5c92e56237f5",
+      "DisplayName": "SomeProducts",
+      "ColorIndex": 1
+    },
+    "05846f24-f85d-46fb-b0c7-d18b72fc6e49": {
+      "ProjectGuid": "05846f24-f85d-46fb-b0c7-d18b72fc6e49",
+      "DisplayName": "SomeCustomers",
+      "ColorIndex": 2
+    },
+    "32f274c5-1464-401a-b1c3-e2c25026c8ec": {
+      "ProjectGuid": "32f274c5-1464-401a-b1c3-e2c25026c8ec",
+      "DisplayName": "SomeOcelot",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "42fd8820-5087-40f2-bc1b-7c7c17681c25": {
+      "ProjectGuid": "42fd8820-5087-40f2-bc1b-7c7c17681c25",
+      "DisplayName": "JWTAuthManager",
+      "ColorIndex": 4
+    },
+    "27126538-bdb7-4ab2-bc2b-3acea9b7e7be": {
+      "ProjectGuid": "27126538-bdb7-4ab2-bc2b-3acea9b7e7be",
+      "DisplayName": "AuthenticationAPI",
+      "ColorIndex": 5
+    },
+    "e2415cd4-6d7b-4982-a57a-fd5152801cf8": {
+      "ProjectGuid": "e2415cd4-6d7b-4982-a57a-fd5152801cf8",
+      "DisplayName": "AuthenticationAPI1",
+      "ColorIndex": 6
+    },
+    "b30eb1cb-103d-44b4-846c-9729c3028be6": {
+      "ProjectGuid": "b30eb1cb-103d-44b4-846c-9729c3028be6",
+      "DisplayName": "Authentication",
+      "ColorIndex": 7
+    },
+    "cb94b8a6-0a13-4a63-81ac-d4368b58f8ab": {
+      "ProjectGuid": "cb94b8a6-0a13-4a63-81ac-d4368b58f8ab",
+      "DisplayName": "AuthAPI",
+      "ColorIndex": 8
+    },
+    "16878adc-405d-49b8-a148-4eea6df436e7": {
+      "ProjectGuid": "16878adc-405d-49b8-a148-4eea6df436e7",
+      "DisplayName": "AutheAPI",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}
